@@ -8,7 +8,7 @@ En este programa utilizaremos el comando PING para las opciones
 - Una opción para comprobar la red
 - Una opción para salir del programa
 
-## Dentro de las opciones de comprobar la red:
+### Dentro de las opciones de comprobar la red:
 - Comprobar la conectividad con una IP (PING)
 - Comprobar un PC del aula,la IP de la red se sacará automaticamente y el usuario introducirá el número de la IP
   - La IP de la red se sacará automaticamente
