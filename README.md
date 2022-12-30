@@ -3,6 +3,7 @@
 Este repositorio contiene una serie de ideas practicar programación en BATCH (.bat) con sus resoluciones realizadas
 
 ## Ejercicio 1:
+En este programa utilizaremos el comando net user y net localgroup para las opciones
 
 ### Cosas que hacer: 
 - El nombre del script debe de ser algo parecido a gestion_usuarios_grupos_windows.bat
@@ -42,6 +43,7 @@ Este repositorio contiene una serie de ideas practicar programación en BATCH (.
 - Salir del programa
 
 ## Ejercicio 2:
+En este programa utilizaremos el comando PING para las opciones
 
 ### Cosas que hacer: 
 - El nombre del script debe de ser algo parecido a ip_check.bat
@@ -58,3 +60,15 @@ Este repositorio contiene una serie de ideas practicar programación en BATCH (.
   - La IP de la red se sacará automaticamente
   - El usuario introducirá el número de la primera y la ultima IP a escanear
 - Una opcion para volver al menu principal
+
+## Ejercicio 3:
+En este programa utilizaremos el comando ipconfig /all y getmac para las opciones
+
+### Cosas que hacer: 
+- Mostrar interfaces de red
+- Mostrar tarjetas de red
+- Mostrar nombre de este equipo
+- Mostrar IPv4 o IPv6
+- Mostrar direcciones MAC
+- Mostrar servidores DHCP
+- Salir del programa
