@@ -1,5 +1,5 @@
 ---- Author: h3g0c1v ----
-# Proyectos en BATCH
+# Ideas de Proyectos en BATCH
 Este repositorio contiene una serie de ideas practicar programación en BATCH (.bat) con sus resoluciones realizadas
 
 ## Ejercicio 1:
