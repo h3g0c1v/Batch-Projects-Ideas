@@ -3,7 +3,9 @@
 Este repositorio contiene una serie de ideas practicar programación en BATCH (.bat) con sus resoluciones realizadas
 
 ## Ejercicio 1:
-En este programa utilizaremos el comando net user y net localgroup para las opciones
+Es un programa el cual servirá para gestionar los usuarios y los grupos locales del equipo
+En este programa utilizaremos los comandos net user y net localgroup para las opciones
+
 
 ### Cosas que hacer: 
 - El nombre del script debe de ser algo parecido a gestion_usuarios_grupos_windows.bat
@@ -43,6 +45,7 @@ En este programa utilizaremos el comando net user y net localgroup para las opci
 - Salir del programa
 
 ## Ejercicio 2:
+Es un programa el cual servirá para ver la conectividad de los equipos
 En este programa utilizaremos el comando PING para las opciones
 
 ### Cosas que hacer: 
@@ -62,7 +65,8 @@ En este programa utilizaremos el comando PING para las opciones
 - Una opcion para volver al menu principal
 
 ## Ejercicio 3:
-En este programa utilizaremos el comando ipconfig /all y getmac para las opciones
+Es un programa el cual servirá para filtrar información de la red
+En este programa utilizaremos los comandos ipconfig /all y getmac para las opciones
 
 ### Cosas que hacer: 
 - Mostrar interfaces de red
@@ -74,6 +78,7 @@ En este programa utilizaremos el comando ipconfig /all y getmac para las opcione
 - Salir del programa
 
 ## Ejercicio 4:
+Es un programa el cual servirá para gestionar el firewall entre otras
 En este programa utilizaremos el comando netsh para las opciones
 
 ### Cosas que hacer: 
@@ -121,3 +126,26 @@ En este programa utilizaremos el comando netsh para las opciones
 - Empezar/Terminar captura de paquetes
 - Visualizar panel de ayuda de netsh
 - Salir
+
+## Ejercicio 5:
+Es un programa el cual servirá para enviar mensajes entre dispositivos
+En este programa utilizaremos los comandos neths, sc, PING y MSG para las opciones
+
+### Cosas que hacer
+- Desactivar el firewall de este equipo (netsh advfirewall set allprofiles state off).
+- Activar el servicio mensajero de este equipo (sc config MessagingService start=demand).
+- El usuario debera introducir el numero de IP del equipo con el que se desea comunicarse.
+- La red se obtendra automaticamente a partir de la IP local.
+- Los mensajes a la IP se enviaran con el comando MSG.
+- Cuando el usuario quiera salir del programa el servicio mensajero se desactivara y el firewall se volvera a activar.
+
+## Ejercicio 6:
+Es un programa el cual servirá para obtener la contraseña de las conexiones inalambricas a las que te has conectado con anterioridad
+En este programa utilizaremos los comandos netsh para las opciones
+
+### Cosas que hacer
+- El usuario deberá introducir el nombre de alguna de las redes disponibles que tenga
+- Le mostrarás la contraseña del dispositivo inalámbrico
+- Le preguntaras que si quiere visualizar otra contraseña de otro dispositivo inalámbrico.
+  - Si introduce que si quiere, volverá a la pregunta para introducir el nombre de la red
+  - Si introduce que no quiere, terminará el programa
