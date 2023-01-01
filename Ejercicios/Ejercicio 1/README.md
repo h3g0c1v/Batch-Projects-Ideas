@@ -1,6 +1,6 @@
 # Gestion de Usuarios y Grupos:
 Este es un programa el cual servirá para gestionar los usuarios y los grupos locales del equipo.
-En este programa utilizaremos los comandos net user y net localgroup para las opciones
+En este programa utilizaremos los comandos net user y net localgroup para las opciones.
 
 
 ### Cosas que hacer: 
