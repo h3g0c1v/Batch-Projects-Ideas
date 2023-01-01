@@ -1,6 +1,6 @@
 # Filtrando Información sobre la Red
 Es un programa el cual servirá para filtrar información de la red.
-En este programa utilizaremos los comandos ipconfig /all y getmac para las opciones
+En este programa utilizaremos los comandos ipconfig /all y getmac para las opciones.
 
 ### Cosas que hacer: 
 - Mostrar interfaces de red
