@@ -1,6 +1,6 @@
 # Envia mensajes entre dispositivos a traves de la red
 Es un programa el cual servirá para enviar mensajes entre dispositivos.
-En este programa utilizaremos los comandos neths, sc, PING y MSG para las opciones
+En este programa utilizaremos los comandos neths, sc, PING y MSG para las opciones.
 
 ### Cosas que hacer
 - Desactivar el firewall de este equipo (netsh advfirewall set allprofiles state off).
