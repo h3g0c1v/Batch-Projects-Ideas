@@ -1,6 +1,6 @@
 # Comprobación de Conectividad
 Es un programa el cual servirá para ver la conectividad de los equipos.
-En este programa utilizaremos el comando PING para las opciones
+En este programa utilizaremos el comando PING para las opciones.
 
 ### Cosas que hacer: 
 - El nombre del script debe de ser algo parecido a ip_check.bat
