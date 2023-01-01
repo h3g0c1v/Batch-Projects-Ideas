@@ -1,10 +1,10 @@
 ---- Author: h3g0c1v ----
 # Ideas de Proyectos en BATCH
-Este repositorio contiene una serie de ideas practicar programación en BATCH (.bat) con sus resoluciones realizadas
+Este repositorio contiene una serie de ideas practicar programación en BATCH (.bat) con sus resoluciones realizadas.
 
 ## Ejercicio 1:
-Es un programa el cual servirá para gestionar los usuarios y los grupos locales del equipo
-En este programa utilizaremos los comandos net user y net localgroup para las opciones
+Es un programa el cual servirá para gestionar los usuarios y los grupos locales del equipo.
+En este programa utilizaremos los comandos net user y net localgroup para las opciones.
 
 
 ### Cosas que hacer: 
@@ -45,8 +45,8 @@ En este programa utilizaremos los comandos net user y net localgroup para las op
 - Salir del programa
 
 ## Ejercicio 2:
-Es un programa el cual servirá para ver la conectividad de los equipos
-En este programa utilizaremos el comando PING para las opciones
+Es un programa el cual servirá para ver la conectividad de los equipos.
+En este programa utilizaremos el comando PING para las opciones.
 
 ### Cosas que hacer: 
 - El nombre del script debe de ser algo parecido a ip_check.bat
@@ -65,8 +65,8 @@ En este programa utilizaremos el comando PING para las opciones
 - Una opcion para volver al menu principal
 
 ## Ejercicio 3:
-Es un programa el cual servirá para filtrar información de la red
-En este programa utilizaremos los comandos ipconfig /all y getmac para las opciones
+Es un programa el cual servirá para filtrar información de la red.
+En este programa utilizaremos los comandos ipconfig /all y getmac para las opciones.
 
 ### Cosas que hacer: 
 - Mostrar interfaces de red
@@ -78,8 +78,8 @@ En este programa utilizaremos los comandos ipconfig /all y getmac para las opcio
 - Salir del programa
 
 ## Ejercicio 4:
-Es un programa el cual servirá para gestionar el firewall entre otras
-En este programa utilizaremos el comando netsh para las opciones
+Es un programa el cual servirá para gestionar el firewall entre otras.
+En este programa utilizaremos el comando netsh para las opciones.
 
 ### Cosas que hacer: 
 - Una opción para comandos de netsh
@@ -128,8 +128,8 @@ En este programa utilizaremos el comando netsh para las opciones
 - Salir
 
 ## Ejercicio 5:
-Es un programa el cual servirá para enviar mensajes entre dispositivos
-En este programa utilizaremos los comandos neths, sc, PING y MSG para las opciones
+Es un programa el cual servirá para enviar mensajes entre dispositivos.
+En este programa utilizaremos los comandos neths, sc, PING y MSG para las opciones.
 
 ### Cosas que hacer
 - Desactivar el firewall de este equipo (netsh advfirewall set allprofiles state off).
@@ -140,8 +140,8 @@ En este programa utilizaremos los comandos neths, sc, PING y MSG para las opcion
 - Cuando el usuario quiera salir del programa el servicio mensajero se desactivara y el firewall se volvera a activar.
 
 ## Ejercicio 6:
-Es un programa el cual servirá para obtener la contraseña de las conexiones inalambricas a las que te has conectado con anterioridad
-En este programa utilizaremos los comandos netsh para las opciones
+Es un programa el cual servirá para obtener la contraseña de las conexiones inalambricas a las que te has conectado con anterioridad.
+En este programa utilizaremos los comandos netsh para las opciones.
 
 ### Cosas que hacer
 - El usuario deberá introducir el nombre de alguna de las redes disponibles que tenga
