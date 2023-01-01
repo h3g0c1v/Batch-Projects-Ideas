@@ -1,6 +1,8 @@
 # Practicando con NETSH
-Es un programa el cual servirá para gestionar el firewall entre otras
-En este programa utilizaremos el comando netsh para las opciones
+Es un programa el cual servirá para gestionar el firewall entre otras.
+En este programa utilizaremos el comando netsh para las opciones.
+Para realizar este programa te puedes ayudar de esta página:
+- https://www.cyberithub.com/31-most-useful-netsh-command-examples-in-windows/
 
 ### Cosas que hacer: 
 - Una opción para comandos de netsh
