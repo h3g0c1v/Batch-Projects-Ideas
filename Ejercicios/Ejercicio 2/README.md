@@ -1,5 +1,5 @@
 # Comprobación de Conectividad
-Es un programa el cual servirá para ver la conectividad de los equipos
+Es un programa el cual servirá para ver la conectividad de los equipos.
 En este programa utilizaremos el comando PING para las opciones
 
 ### Cosas que hacer: 
