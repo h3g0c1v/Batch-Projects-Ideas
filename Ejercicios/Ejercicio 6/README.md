@@ -1,6 +1,6 @@
 # Obteniendo contraseñas de las redes anteriormente conectadas
 Es un programa el cual servirá para obtener la contraseña de las conexiones inalambricas a las que te has conectado con anterioridad.
-En este programa utilizaremos los comandos netsh para las opciones
+En este programa utilizaremos los comandos netsh para las opciones.
 
 ### Cosas que hacer
 - El usuario deberá introducir el nombre de alguna de las redes disponibles que tenga
