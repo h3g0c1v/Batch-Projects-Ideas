@@ -11,21 +11,26 @@ En este programa utilizaremos los comandos net user y net localgroup para las op
 - Una opción para salir del programa
 
 ### Dentro de las opciones de gestión de usuarios:
+
 - Visualizar todos los usuarios
 - Visualizar informacion de un usuario
 - Crear un usuario
+- Crear usuarios a partir de un fichero
 - Borrar un usuario
 - Borrar usuarios a partir de un fichero
 - Activar/Desactivar un usuario
-- Configurar cuando expira una password de un usuario
+- Configurar cuando expira la cuenta de un usuario
 - Indicar si un usuario puede cambiar su password o no
+- Crear usuarios automaticamente
+- Indicar si la password de un usuario debe ser requerida o no
+- Asignar una password a un usuario
 - Asignar una password random a un usuario
 - Establecer los dias que un usuario puede iniciar sesion
 - Agregar un comentario a un usuario
 - Filtrar por alguna cadena en la informacion de un usuario
 - Volver al menu principal
 - Salir del programa
-
+ 
 ### Dentro de las opciones de gestión de grupos:
 - Visualizar todos los grupos locales
 - Visualizar informacion de un grupo local
